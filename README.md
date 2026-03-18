@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Python+Developer;Al-xorazmiy+vorislari+IT+okuvchisi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Python+Developer;Al-xorazmiy+vorislari+IT+o`kuvchisi" />
 </p>
 
 <p align="center">
@@ -29,9 +29,9 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadbek11211&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanos2517&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadbek11211&theme=neon&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanos2517&theme=neon&hide_border=true" width="100%" />
 </p>
